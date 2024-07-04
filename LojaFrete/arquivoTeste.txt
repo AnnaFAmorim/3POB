@@ -1,5 +1,0 @@
-ID: 1, CEP Inicial: 34567890, CEP Final: 12345678, Valor por Kilo: 45.67
-ID: 2, CEP Inicial: 34567891, CEP Final: 12345679, Valor por Kilo: 46.67
-ID: 3, CEP Inicial: 34567892, CEP Final: 12345680, Valor por Kilo: 47.67
-ID: 4, CEP Inicial: 34567893, CEP Final: 12345681, Valor por Kilo: 48.67
-Arquivo novo criado em Java.
