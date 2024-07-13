@@ -1,5 +1,0 @@
-nome;cpf;email;endereco;cep
-Anna Ferreira ;123456;annafe@gmail.com;rua clarimundo de melo;20000000
-Betryaz Silva;789456;betryazsi@gmail.com;rua clarimundo de melo;20000000
-Caua Padonavi;456125;cauapa@gmail.com;rua clarimundo de melo;20000000
-Lucas Santos;124578;lucasSa@gmail.com;rua clarimundo de melo;20000000
